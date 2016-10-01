@@ -20,7 +20,7 @@ baseurl: "/tamuhack" # the subpath of your site
 url: "https://grantlballard.github.io"
 email: runner123g@tamu.edu
 github_username:  grantlballard
-twitter_username: @Possiblygrant
+twitter_username: Possiblygrant
 
 # Build settings
 markdown: kramdown
