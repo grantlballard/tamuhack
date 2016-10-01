@@ -16,6 +16,6 @@ This is my basic webpage and as I do more and more projects this should be updat
 
 Thanks for visiting!
 
-If you have any questions or comments on anything I do feel free to contact me at:
+If you have any questions or comments about anything feel free to contact me at:
 runner123g@tamu.edu
 
