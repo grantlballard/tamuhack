@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing these this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-#
+# 
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
@@ -17,11 +17,10 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+url: "https://grantlballard.github.io"
+email: runner123g@tamu.edu
+github_username:  grantlballard
+twitter_username: @Possiblygrant
 
 # Build settings
 markdown: kramdown
